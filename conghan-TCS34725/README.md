@@ -1,4 +1,4 @@
-# 矩阵键盘
+# TCS34725颜色传感器 mind+库
 
 
 ![](./arduinoC/_images/featured.png)
@@ -22,8 +22,7 @@
 
 
 ## 描述
-利用arduino官方的keypad库
-支持3-4行/列的矩阵键盘
+利用adafruit的tcs34725库，把读取到的内容转换为共阴极rgb数据
 
 ## 积木列表
 
